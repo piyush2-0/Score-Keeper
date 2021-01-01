@@ -1,0 +1,47 @@
+body{
+    background: url("https://i.pinimg.com/236x/c9/8a/00/c98a00ae8ab5d2d16be7639e6a284329.jpg");
+    color: red;
+    background-repeat:no repeat;
+    background-size:cover;
+}
+
+h1{
+    text-align:center;
+    margin-top:50px;
+    font-size:80px;
+    font-weight:bold;
+}
+
+#players{
+    padding: 5px;
+}
+.winner {
+  color: green;
+}
+
+#span1 #span2{
+    font :10px solid red;
+    font-weight:bold;
+}
+
+.full{
+     position:absolute;
+     top: 0; right: 0; bottom: 0; left: 0;
+     margin: auto;
+     text-align:center;
+     width:500px;
+     height:400px;
+     background: url("https://i.pinimg.com/236x/82/30/e1/8230e165b7ba68d2bbc050849118fa02.jpg");
+     color: red;
+     background-repeat:no repeat;
+     background-size:cover;
+}
+/*https://i.pinimg.com/236x/c9/8a/00/c98a00ae8ab5d2d16be7639e6a284329.jpg*/
+p{
+    font-size: 40px;
+    font-weight:bold;
+}
+
+#p1 #p2 #p3{
+    padding: 10px;
+}
